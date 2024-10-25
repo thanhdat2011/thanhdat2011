@@ -31,7 +31,12 @@
 
 ### GitHub Highlights: :blossom:
 <a href="">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thanhdat2011&theme=material-palenight"/>
+</a>
+
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhdat2011&count_private=true&show_icons=true&theme=material-palenight"/>
 </a>
+
 
 
