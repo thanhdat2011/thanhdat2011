@@ -8,9 +8,3 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
   
-<a href="https://github.com/thanhdat2011">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chakravarthi-v&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
-  </a>
-  <a href="https://github.com/thanhdat2011">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhdat2011&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Chakravarthi's github stats" height="220px" />
-  </a>
