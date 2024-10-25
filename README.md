@@ -8,19 +8,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
-<div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
-
-<a href="https://github.com/thanhdat2011">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhdat2011&theme=gruvbox&hide_border=true)](https://github.com/thanhdat2011" alt="Thanhdat's GitHub Stats Graph"/>
+### GitHub Highlights: :blossom:
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhdat2011&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
 </a>
-<br><br>
-<a href="https://github.com/thanhdat2011">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhdat2011&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Thanhdat%27s%20Github%20Stats" alt="Thanhdat's GitHub Stats" />
+<a href="">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thanhdat2011&theme=material-palenight"/>
 </a>
-<h3>Longest vs Current Streak </h3>
-<a href="https://github.com/thanhdat2011">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhdat2011&theme=gruvbox" alt="Thanhdat's GitHub Streak Stats"/>
-</a>
-<br><br>
-</div>
