@@ -8,8 +8,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
   
-  <img align="right" style="max-width: 100%; height: auto;" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" />
-
+<img align="right" height="250" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" />
+  
 ### 💻 **Programming Languages**
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
