@@ -23,7 +23,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thanhdat2011&theme=gruvbox" alt="Thanhdat's GitHub Streak Stats"/>
 </a>
 <br><br>
-<a href="https://github.com/thanhdat2011">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=thanhdat2011&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Thanhdat's GitHub Contributions Graph"/>
-</a>
 </div>
