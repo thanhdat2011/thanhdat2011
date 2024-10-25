@@ -30,20 +30,15 @@
 <br>
 
 ### GitHub Highlights: :blossom:
-<table>
-  <tr>
-    <td>
-      <a href="">
-        <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thanhdat2011&theme=material-palenight"/>
-      </a>
-    </td>
-    <td>
-      <a href="">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhdat2011&count_private=true&show_icons=true&theme=material-palenight"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="">
+    <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thanhdat2011&theme=material-palenight" style="margin-right: 10px;"/>
+  </a>
+  <a href="">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhdat2011&count_private=true&show_icons=true&theme=material-palenight"/>
+  </a>
+</div>
+
 
 
 
