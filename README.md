@@ -7,7 +7,6 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
-  <div align="left">
   ### 💻 **Programming Languages**
   ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=Java&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,7 +23,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
   ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
   ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  <div/>
+  
   <img align="right" height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif"  />
 
 
