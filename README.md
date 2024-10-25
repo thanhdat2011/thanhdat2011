@@ -16,7 +16,7 @@
 </a>
 <br><br>
 <a href="https://github.com/thanhdat2011">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhdat2011&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Thanhdat's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhdat2011&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Thanhdat%20V%27s%20Github%20Stats" alt="Thanhdat's GitHub Stats" />
 </a>
 <h3>Longest vs Current Streak </h3>
 <a href="https://github.com/thanhdat2011">
