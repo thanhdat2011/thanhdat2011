@@ -10,8 +10,8 @@
 
 ### GitHub Highlights: :blossom:
 
-<a href="">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhdat2011&theme=material-palenight&hide_border=true)](https://github.com/thanhdat2011" alt="Thanhdat's GitHub Stats Graph"/>
+<a href="https://github.com/thanhdat2011">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhdat2011&theme=gruvbox&hide_border=true)](https://github.com/thanhdat2011" alt="Bharat's GitHub Stats Graph"/>
 </a>
 <a href="">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thanhdat2011&theme=material-palenight"/>
