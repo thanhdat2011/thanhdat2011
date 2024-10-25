@@ -9,12 +9,6 @@
 <br>
 
 ### GitHub Highlights: :blossom:
-<a href="https://github.com/thanhdat2011">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thanhdat2011&theme=material-palenight&hide_border=true)](https://github.com/thanhdat2011" alt="Bharat's GitHub Stats Graph"/>
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billpwchan&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
 <a href="">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thanhdat2011&theme=material-palenight"/>
 </a>
