@@ -57,6 +57,7 @@
  
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/th%C3%A0nh-%C4%91%E1%BA%A1t-a89553229/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/profile.php?id=100010279033615) 
+[![My CV](https://img.shields.io/badge/My%20CV-Download-blue?style=for-the-badge&logo=adobe&logoColor=white)](https://drive.google.com/file/d/1dIl8dl7zEF2pnQBg3HY55fCrAri9eDht/view?usp=drive_link)
 
 </p>
   
