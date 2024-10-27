@@ -41,7 +41,7 @@
     <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=thanhdat2011&theme=material-palenight" style="margin-right: 10px;"/>
   </a>
   <a href="">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhdat2011&count_private=true&show_icons=true&theme=material-palenight"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=thanhdat2011&count_private=true&show_icons=true&theme=material-palenight&include_all_commits=true"/>
   </a>
 </div>
 <br>
